@@ -1,4 +1,4 @@
-# Time-Series_Prediction
+# Time-Series-Prediction
 
 Time Prediction model that can predict series data
 
